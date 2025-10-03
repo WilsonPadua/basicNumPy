@@ -1,0 +1,8 @@
+ID_Produto,Nome_Produto,Categoria,Quantidade_Vendida,Preco_Unitario,Data_Venda,Vendedor
+101,Caneta Azul,Papelaria,50,1.20,2025-09-01,Ana
+102,Caderno 96fl,Papelaria,,25.50,2025-09-01,Bruno
+103,Mouse Gamer,Informatica,15,N/A,2025-09-02,Carlos
+104,Teclado Mecanico,Informatica,10,250.00,2025-09-03,
+105,Cadeira de Escritorio,Mobiliario,5,899.90,2025-09-04,Ana
+106,Monitor 24pol,Informatica,N/A,1250.00,2025-09-05,Carlos
+107,Lapis Grafite,Papelaria,100,,2025-09-05,Bruno
