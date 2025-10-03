@@ -33,6 +33,7 @@ O objetivo é mostrar como essas ferramentas podem ser utilizadas juntas para ma
    cd seu-repositorio
 
 2. Instale as dependencias
+    ```bash
     pip install -r requiriments.txt
 
 ## 📊 Exemplo de Saída
